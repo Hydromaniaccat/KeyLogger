@@ -6,3 +6,4 @@
 Still could use some modifications (I'll finish this later):
 -multiple threading for sender function
 -more efficient sendcheck function, so it doesn't have to check EVERY run
+-method of autorunning after a restart(experimenting with windows startup folder)
